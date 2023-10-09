@@ -11,7 +11,11 @@
 用户：登录注册、购买、收藏、评论、支付、发布求购信息等
 
 卖家：登录注册、发布商品、订单管理等
+## 获取方式
 
+扫描下方，回复关键词  ： **二手** ，以获取源码  
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 2、项目技术
 
