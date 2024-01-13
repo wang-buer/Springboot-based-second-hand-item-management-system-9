@@ -11,11 +11,7 @@
 用户：登录注册、购买、收藏、评论、支付、发布求购信息等
 
 卖家：登录注册、发布商品、订单管理等
-## 获取方式
 
-扫描下方，回复关键词  ： **二手** ，以获取源码  
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 2、项目技术
 
@@ -37,53 +33,53 @@
 
 ### 4.1 登录
 
-![后台登录](https://s2.loli.net/2023/10/09/rcdjxuFe24sZSml.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311162043306.jpg)
 
 ### 4.2 前端模块
 
-![前端-商品](https://s2.loli.net/2023/10/09/QDVhGsjvEUb4Ai5.jpg)
+![前端-商品](https://www.codeshop.fun/Typora-Images/202311162043192.jpg)
 
-![前端-商品详情](https://s2.loli.net/2023/10/09/wW6sX3hzuMaRVTy.jpg)
-
-![前端-公告](https://s2.loli.net/2023/10/09/ZAgL7s5D1qlVQuy.jpg)
+![前端-公告](https://www.codeshop.fun/Typora-Images/202311162043148.jpg)
 
 ### 4.3 用户模块
 
-![用户-订单管理](https://s2.loli.net/2023/10/09/HZnvGk4IBqVK1bU.jpg)
+![用户-收藏](https://www.codeshop.fun/Typora-Images/202311162043180.jpg)
 
-![用户-收藏](https://s2.loli.net/2023/10/09/PcqDo1JMGkI2teg.jpg)
+![用户-订单管理](https://www.codeshop.fun/Typora-Images/202311162043188.jpg)
 
-![用户-求购](https://s2.loli.net/2023/10/09/o71k9CltPAEwbeQ.jpg)
+![用户-求购](https://www.codeshop.fun/Typora-Images/202311162043205.jpg)
 
 ### 4.4 商家模块
 
-![商家-发布商品](https://s2.loli.net/2023/10/09/tTLpcn6Si2oxlq9.jpg)
+![商家-发布商品2](https://www.codeshop.fun/Typora-Images/202311162043502.jpg)
 
-![商家-发布商品2](https://s2.loli.net/2023/10/09/RaqYt3JhNH6n7bW.jpg)
+![商家-订单管理](https://www.codeshop.fun/Typora-Images/202311162043495.jpg)
 
-![商家-订单管理](https://s2.loli.net/2023/10/09/vmOlWrVTB6eJuzt.jpg)
+![商家-发布商品](https://www.codeshop.fun/Typora-Images/202311162043524.jpg)
+
 
 ### 4.5 管理员模块 
 
-![管理员-用户管理](https://s2.loli.net/2023/10/09/XPTDauy3Knk7OMo.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202311162043054.jpg)
 
-![管理员-卖家管理](https://s2.loli.net/2023/10/09/uAN52QgByjO8eLm.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202311162043079.jpg)
 
-![管理员-分类管理](https://s2.loli.net/2023/10/09/jBRszSGdlvfgiuV.jpg)
+![管理员-分类管理](https://www.codeshop.fun/Typora-Images/202311162043108.jpg)
 
-![管理员-商品管理](https://s2.loli.net/2023/10/09/rBHPoNJiFMhu4xZ.jpg)
+![管理员-留言管理](https://www.codeshop.fun/Typora-Images/202311162043125.jpg)
 
-![管理员-订单管理](https://s2.loli.net/2023/10/09/PQJrLyR1XHMlc4N.jpg)
+![管理员-卖家管理](https://www.codeshop.fun/Typora-Images/202311162043166.jpg)
 
-![管理员-留言管理](https://s2.loli.net/2023/10/09/6pD79ckeHSVI8Uq.jpg)
+![管理员-求购管理](https://www.codeshop.fun/Typora-Images/202311162043138.jpg)
 
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：二手
-
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
+![管理员-商品管理](https://www.codeshop.fun/Typora-Images/202311162043946.jpg)
 
 
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**二手**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 
 
